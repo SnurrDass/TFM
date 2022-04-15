@@ -1,7 +1,7 @@
 # Plan
 
 ## Problemet
-Bruker mye tid på å lage tfm koder.
+Bruker mye tid på å lage tfm koder. og underlag
 
 ## Løsning
 Web app hvor man legger inn data
